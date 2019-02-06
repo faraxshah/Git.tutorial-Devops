@@ -1,0 +1,1 @@
+print("farax is good!")
